@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="836d1093-94e0-46ec-b03a-59e8404d206b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Karn/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Karn/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karn/www/assest/vendore/texllate/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Karn/www/assest/vendore/texllate/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karn/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Karn/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karn/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Karn/www/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karn/www/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Karn/www/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nWLhJ6UrPizL1eQwADuWuoHzHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836d1093-94e0-46ec-b03a-59e8404d206b" name="Changes" comment="" />
+      <created>1729084002507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729084002507</updated>
+    </task>
+    <servers />
+  </component>
+</project>
